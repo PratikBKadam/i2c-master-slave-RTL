@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/simulation/modelsim
+vi2c_master
+Z1 !s110 1722517362
+!i10b 1
+!s100 IO>5KKVOdf1?IBLBSJE1T2
+IaGo7mAK0DZP@_>]?6UWg43
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1722492115
+8G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master.v
+FG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1722517362.000000
+!s107 G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master|G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master}
+Z7 tCvgOpt 0
+vi2c_master_controlpath
+R1
+!i10b 1
+!s100 >HZ8GRJi9WPWAg>XjZmc_0
+Id:>2Wka4?<cnoi_3ac2Fa2
+R2
+R0
+w1722492285
+8G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master_controlpath.v
+FG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master_controlpath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master_controlpath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master|G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master_controlpath.v|
+!i113 1
+R5
+R6
+R7
+vi2c_master_datapath
+R1
+!i10b 1
+!s100 z[e4_7f?c9L5OIjiT?l332
+I<zfcRdQWTiUdH]SBQE7lT3
+R2
+R0
+w1722490664
+8G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master_datapath.v
+FG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master_datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master_datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master|G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/i2c_master_datapath.v|
+!i113 1
+R5
+R6
+R7
+vtb
+R1
+!i10b 1
+!s100 ;KO^7nPhFB=gbz4TOI;z31
+I1^YLZI>CF6eB2i2eVdO1c1
+R2
+R0
+w1722492416
+8G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/tb.v
+FG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master|G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_master/tb.v|
+!i113 1
+R5
+R6
+R7

@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at i2c_slave_datapath.v(214): always construct contains both blocking and non-blocking assignments File: G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave_datapath.v Line: 214

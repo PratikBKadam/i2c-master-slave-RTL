@@ -1,0 +1,3 @@
+module tb;
+reg rw,value;
+wire p1,result;

@@ -1,0 +1,29 @@
+module tb;
+reg rst,clk,read;
+wire sda;
+wire scl;
+reg [7:0] data_send_master;
+reg data_send_master_enable;
+wire [7:0] data_receive_master;
+wire data_receive_master_enable;
+reg lane;
+i2c_master dut(
+.rst(rst),
+.clk(clk),
+.read(read),
+.sda(sda),
+.scl(scl),
+.data_send_master(data_send_master),
+.data_send_master_enable(data_send_master_enable),
+.data_receive_master(data_receive_master),
+.data_receive_master_enable(data_receive_master_enable)
+);
+initial begin
+	clk=1'b0;
+	forever #5 clk=~clk;
+end
+initial begin
+	rst=0;
+	data_send_master=8'h00;
+end
+endmodule

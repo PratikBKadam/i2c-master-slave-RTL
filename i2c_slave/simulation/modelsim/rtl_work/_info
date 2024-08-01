@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/simulation/modelsim
+vi2c_slave
+Z1 !s110 1722519096
+!i10b 1
+!s100 HN9b4[o5AT`;=WO>al4YO1
+IE^cK@9I6Qa`_AZa^oNZ4P3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1722518709
+8G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave.v
+FG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1722519096.000000
+!s107 G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave|G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave}
+Z7 tCvgOpt 0
+vi2c_slave_controlpath
+R1
+!i10b 1
+!s100 45]LB22V[mJ@i=VWRI2]g0
+I0E5KgF^oI29UR@Q:IbX`Q2
+R2
+R0
+w1722518865
+8G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave_controlpath.v
+FG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave_controlpath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave_controlpath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave|G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave_controlpath.v|
+!i113 1
+R5
+R6
+R7
+vi2c_slave_datapath
+R1
+!i10b 1
+!s100 ATjC5hlKb[obHkO;4a[e`0
+IZ;UBNmN9FczkAUfefLgR>3
+R2
+R0
+w1722517655
+8G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave_datapath.v
+FG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave_datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave_datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave|G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/i2c_slave_datapath.v|
+!i113 1
+R5
+R6
+R7
+vtb
+R1
+!i10b 1
+!s100 0zKj5WNb?AK3d1J>oOV<l2
+I`86Nbgea?b7`;]OIoz[M]2
+R2
+R0
+w1722518986
+8G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/tb.v
+FG:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave|G:/pratik/Pratik IMP documents/COEP/College/VLSI/i2c/i2c_slave/tb.v|
+!i113 1
+R5
+R6
+R7

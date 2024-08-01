@@ -1,0 +1,21 @@
+
+State Machine - |i2c_slave|i2c_slave_controlpath:u2|present_state
+Name present_state.acknowledge2 present_state.data present_state.stop present_state.address present_state.acknowledge1 present_state.start present_state.idle 
+present_state.idle 0 0 0 0 0 0 0 
+present_state.start 0 0 0 0 0 1 1 
+present_state.acknowledge1 0 0 0 0 1 0 1 
+present_state.address 0 0 0 1 0 0 1 
+present_state.stop 0 0 1 0 0 0 1 
+present_state.data 0 1 0 0 0 0 1 
+present_state.acknowledge2 1 0 0 0 0 0 1 
+
+State Machine - |i2c_slave|i2c_slave_datapath:u1|count_receive_reg
+Name count_receive_reg.111 count_receive_reg.110 count_receive_reg.101 count_receive_reg.100 count_receive_reg.011 count_receive_reg.010 count_receive_reg.001 count_receive_reg.000 
+count_receive_reg.000 0 0 0 0 0 0 0 0 
+count_receive_reg.001 0 0 0 0 0 0 1 1 
+count_receive_reg.010 0 0 0 0 0 1 0 1 
+count_receive_reg.011 0 0 0 0 1 0 0 1 
+count_receive_reg.100 0 0 0 1 0 0 0 1 
+count_receive_reg.101 0 0 1 0 0 0 0 1 
+count_receive_reg.110 0 1 0 0 0 0 0 1 
+count_receive_reg.111 1 0 0 0 0 0 0 1 
